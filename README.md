@@ -7,13 +7,15 @@ Realizado por:
 - Eduardo Da Silva Yanes
 
 
-###    PAYTIME
+###    - PAYTIME
 ![alt text](https://github.com/EduardoSY/WAI_ARIA_04_UYA.github.io/blob/master/gifs/PayTime.gif)
 
 
-###    Widgets accesibles
+
+###    - Widgets accesibles
 ![alt text](https://github.com/EduardoSY/WAI_ARIA_04_UYA.github.io/blob/master/gifs/Widget_accesibles.gif)
 
 
-###    Conversor de monedas
+
+###    - Conversor de monedas
 ![alt text](https://github.com/EduardoSY/WAI_ARIA_04_UYA.github.io/blob/master/gifs/Conversor_monedas.gif)
