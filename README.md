@@ -12,10 +12,5 @@ Realizado por:
 
 
 
-###    - Widgets accesibles
-![alt text](https://github.com/EduardoSY/WAI_ARIA_04_UYA.github.io/blob/master/gifs/Widget_accesibles.gif)
-
-
-
 ###    - Conversor de monedas
 ![alt text](https://github.com/EduardoSY/WAI_ARIA_04_UYA.github.io/blob/master/gifs/Conversor_monedas.gif)
